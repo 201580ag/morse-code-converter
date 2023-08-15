@@ -1,6 +1,7 @@
 # morse-code-converter
 This Python script is a program that provides the ability to convert text into Morse code or Morse code into text.
-```markdown
+
+```
 # Morse Code Converter
 
 This Python script provides the functionality to convert English text to Morse code and vice versa.
